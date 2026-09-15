@@ -56,6 +56,6 @@ document.getElementById('copy-name').addEventListener('click', async event => {
     toast.classList.add('show');
     setTimeout(() => toast.classList.remove('show'), 1800);
   } catch {
-    event.currentTarget.textContent = 'Corderitianto Alvian';
+    event.currentTarget.textContent = 'Cordirianto Alvian';
   }
 });
