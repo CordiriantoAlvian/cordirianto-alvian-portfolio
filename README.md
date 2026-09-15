@@ -1,14 +1,14 @@
-# Corderitianto Alvian — Portfolio
+# Cordirianto Alvian — Data Portfolio
 
-Personal portfolio website covering strategy, business analysis, data analytics, operations, and AI automation.
+Personal portfolio focused on data analytics, data science, machine learning, and consulting problem solving.
 
 ## GitHub Pages
 
-This repository is ready to publish directly from the `main` branch. The site uses plain HTML, CSS, and JavaScript with no build step.
+This repository publishes directly from the `main` branch. The site uses plain HTML, CSS, and JavaScript with no build step.
 
-## Customize
+## Content
 
-- Update portfolio content in `index.html`.
-- Update colors and layout in `styles.css`.
-- Update interactions in `script.js`.
-
+- Data analytics and data science profile
+- PERSOL APAC and Magnit VMS process-improvement experience
+- Vice Project Leader and consulting internship experience
+- Selected analytics, machine-learning, and consulting projects
